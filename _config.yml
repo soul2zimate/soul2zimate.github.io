@@ -16,7 +16,7 @@
 title: The Dark Side of the Moon
 email: chaowan@redhat.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for the new site here.
+  I am writing an awesome description for the new site here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
