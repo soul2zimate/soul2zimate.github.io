@@ -39,4 +39,5 @@ title: Hash Pointers and Data Structures
 Hash pointer can be used in any pointer-based data structure that has no cycles.
 
 推荐阅读： [Merkle Tree 概念](http://www.cnblogs.com/fengzhiwu/p/5524324.html)
+
 Blockchain Demo: <https://anders.com/blockchain/blockchain.html>
